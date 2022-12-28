@@ -2,8 +2,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a web development student at Nashville Software School. 
-- :zap: I will complete the full-stack web development program in November. 
+- :zap: Full-stack web developer
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bmangum-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brittany-t-mangum/)
 
 ### :hammer_and_wrench: Languages and Tools :
